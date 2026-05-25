@@ -46,12 +46,6 @@ Built with Next.js, TypeScript, Tailwind CSS, and modern full-stack engineering 
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here after deployment_
-
----
-
 ## 🧩 Workflow Modes
 
 ### 📝 Meeting Notes
