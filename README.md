@@ -145,6 +145,5 @@ src/
 **Megha John Babu**
 
 - GitHub: https://github.com/John27052001
-- LinkedIn: https://linkedin.com/in/megha-john-babu
 
 ---
